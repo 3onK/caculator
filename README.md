@@ -1,2 +1,6 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+<실행 방법>
+dart bin/calculator.dart <피연산자1> <연산자> <피연산자2>
+  ex) dart bin/calculator.dart 1 + 2
+
+<테스트>
+dart test
